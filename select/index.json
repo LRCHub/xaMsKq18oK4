@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "流星ボーイ",
+  "base_artist": "Berryz工房",
+  "createdAt": "2026-02-08T08:16:29.439237Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "流星ボーイ",
+      "artist": "berryzkobo",
+      "has_synced": true,
+      "path": "select/01_流星ボーイ_berryzkobo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "流星ボーイ",
+      "artist": "Berryz工房",
+      "has_synced": true,
+      "path": "select/02_流星ボーイ_Berryz工房.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "流星ボーイ （第51話〜67話 ED)",
+      "artist": "Kanako",
+      "has_synced": false,
+      "path": "select/03_流星ボーイ_(第51話〜67話_ED)_Kanako.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "流星ボーイ (アニメエンディングVer.)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/04_流星ボーイ_(アニメエンディングVer.)_Various_Artists.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "流星ボーイ",
+      "artist": "Berryz工房",
+      "has_synced": false,
+      "path": "select/pl_01_流星ボーイ_Berryz工房.txt"
+    }
+  ]
+}
